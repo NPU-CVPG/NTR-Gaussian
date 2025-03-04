@@ -1,2 +1,1 @@
-# NTR-Gaussian
-#Coming Soon
+# NTR-Gaussian(Coming soon)
