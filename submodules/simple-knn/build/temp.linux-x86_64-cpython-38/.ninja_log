@@ -1,0 +1,4 @@
+# ninja log v5
+1	4385	1724230175600443098	/home/yk98/Themal_TempGS-master/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	8f61e8ff571df4ef
+0	6091	1724230177304517160	/home/yk98/Themal_TempGS-master/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	a4d29067c180627f
+1	17440	1724230188653010537	/home/yk98/Themal_TempGS-master/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	42868e4d06498393
