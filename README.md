@@ -15,9 +15,6 @@
     <p align="center">
     *Corresponding authors
 
-  </p>
-  <h3 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_NTR-Gaussian_Nighttime_Dynamic_Thermal_Reconstruction_with_4D_Gaussian_Splatting_Based_CVPR_2025_paper.pdf">Paper</a></h3>
-  <div align="center"></div>
 </p>
 
 ## Introduction
