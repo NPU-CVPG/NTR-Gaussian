@@ -1,0 +1,14 @@
+MLP:
+    W: 256 # width
+    D: 8 # depth
+    D_V: 0 # depth for view direction
+    D_A: 0 # depth for illumination (appearance) embedding
+    D_T: 3 # depth for time encoding (which controls underlying content)
+    W_SH: 48 # width of SH features
+time_encoder: # step function encoding
+    type: 'linear' # linear
+    input_dim: 1
+    output_dim: 16
+    init_val: 0.3
+    hard_grad: True
+
