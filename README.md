@@ -60,7 +60,7 @@ python render_themal_stage2.py -m your_output_path
 ```
 
 ## Dataset
-Download the [data](https://drive.google.com/file/d/17evbWmeZKgVeXseyVv7fNm-2Q_a17ObB/view?usp=share_link) and put it to the ``data`` folder.
+Download the [data](https://drive.google.com/file/d/17evbWmeZKgVeXseyVv7fNm-2Q_a17ObB/view?usp=share_link) and put it to your dataset folder.
 
 ## Citation
 If you find this repository useful in your project, please cite the following work. :)
