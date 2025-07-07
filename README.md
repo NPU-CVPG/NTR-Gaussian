@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics</h1>
+  <h1 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_NTR-Gaussian_Nighttime_Dynamic_Thermal_Reconstruction_with_4D_Gaussian_Splatting_Based_CVPR_2025_paper.pdf" target="_blank">NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics</h1>
   <p align="center">
     <a href="">Kun Yang*</a>,
     <a href="">Yuxiang Liu*</a>,
@@ -16,7 +16,6 @@
     *Corresponding authors
 
   </p>
-<!--   <h3 align="center"><a href="https://arxiv.org/abs/2311.17977">Paper</a> | <a href="https://asparagus15.github.io/GaussianShader.github.io/">Project Page</a></h3> -->
   <h3 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_NTR-Gaussian_Nighttime_Dynamic_Thermal_Reconstruction_with_4D_Gaussian_Splatting_Based_CVPR_2025_paper.pdf">Paper</a></h3>
   <div align="center"></div>
 </p>
